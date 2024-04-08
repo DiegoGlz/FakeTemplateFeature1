@@ -1,0 +1,12 @@
+{
+    "name": "diego.gonzalez/faketemplatefeature1",
+    "description": "Fake feature for development purposes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Diego Gonzalez",
+            "email": "diego.gonzalez@avature.net"
+        }
+    ]
+}
